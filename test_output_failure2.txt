@@ -1,0 +1,1 @@
+20200104-17:50:40: aurora: Problem locking serial device /dev/ttyUSB0, couldn't get the lock for 2806, locked by 2786.

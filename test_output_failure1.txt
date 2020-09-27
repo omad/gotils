@@ -1,0 +1,1 @@
+20200104-17:50:54: aurora: ERROR: Received bad return code (-1 58)
